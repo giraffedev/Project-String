@@ -2,7 +2,7 @@
 
 /* File containing the romanian language strings translations */
 
-$string["ro"] = [
+$strings["ro"] = [
 	'hello' => 'Buna',
 	'bye' => 'La revedere',
 	'welcome' => 'Bine ati venit',
