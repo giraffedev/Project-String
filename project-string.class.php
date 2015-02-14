@@ -8,6 +8,7 @@ namespace Language;
  */
 include 'languages/en.php';
 include 'languages/ro.php';
+include 'languages/es.php';
 
 class String {
 	public static $language;
