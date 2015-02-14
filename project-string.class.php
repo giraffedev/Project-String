@@ -12,6 +12,14 @@ include 'languages/ro.php';
 class String {
 	public static $language;
 
+	/**
+	 * [Sets the language of the page]
+	 * @param [string] $language default: en
+	 */
+	public static function set($language = "en") {
+		self::$language = $language;
+	}
+
     /**
      * [Sets the required string language]
      * @param  string $language default: en
@@ -30,5 +38,15 @@ class String {
 	public function get($name = "") {
 		global $strings;
 		return $strings[self::$language][$name];
+	}
+
+	/**
+	 * [Calling: get as static method]
+	 * @return [string]
+	 */
+	public function __callStatic($name, $arguments) {
+		if($name == 'get') {
+			call_user_func(['String', 'get'], $arguments[0]);
+		}
 	}
 }
