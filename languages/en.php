@@ -2,7 +2,7 @@
 
 /* File containing the english language strings translations */
 
-$string["en"] = [
+$strings["en"] = [
 	'hello' => 'Hello',
 	'bye' => 'Good bye',
 	'welcome' => 'Welcome',
