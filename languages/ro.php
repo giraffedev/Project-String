@@ -11,4 +11,10 @@ $strings["ro"] = [
 	'sign up' => 'Inregistrare',
 	'username' => 'Utilizator',
 	'password' => 'Parola'
+	'home' => 'Acasa',
+	'contact' => 'Contact',
+	'message' => 'Mesaj',
+	'about us' => 'Despre noi',
+	'Back' => 'Inapoi',
+	'Close' => 'Inchide'
 ];
