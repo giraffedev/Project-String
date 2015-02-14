@@ -10,5 +10,11 @@ $strings["en"] = [
 	'log out' => 'Log out',
 	'sign up' => 'Register',
 	'username' => 'Username',
-	'password' => 'Password'
+	'password' => 'Password',
+	'home' => 'Home',
+	'contact' => 'Contact',
+	'message' => 'Message',
+	'about us' => 'About us',
+	'Back' => 'Back',
+	'Close' => 'Close'
 ];
