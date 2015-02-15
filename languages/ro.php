@@ -26,7 +26,7 @@ $strings["ro"] = [
 	
 	/* Time related */
 	'year' => 'An',
-	'month' => 'Luna,'
+	'month' => 'Luna',
 	'day' => 'Zi',
 	'hour' => 'Ora',
 	'minute' => 'Minut',
