@@ -10,6 +10,8 @@ include 'languages/ro.php';
 include 'languages/es.php';
 include 'languages/hr.php';
 include 'languages/is.php';
+include 'languages/se.php';
+include 'languages/dk.php';
 
 class String {
 
