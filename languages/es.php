@@ -17,6 +17,20 @@ $strings["es"] = [
 	'message' => 'Mensaje',
 	'back' => 'Detras',
 	'close' => 'Cerra',
+	'notification' => 'Notificare',
+	'help' => 'Ayudar',
+	'next' => 'Siguiente',
+	'previous' => 'Anterior',
+	'ok' => 'Ok',
+	'now' => 'Ahora',
+	
+	/* Time related */
+	'year' => 'Ano',
+	'month' => 'Mes',
+	'day' => 'Dia',
+	'hour' => 'Hora',
+	'minute' => 'Minuto',
+	'second' => 'Segundo',
 	
 	/* Page names */
 	'home' => 'A casa',
