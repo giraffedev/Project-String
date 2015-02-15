@@ -17,6 +17,20 @@ $strings["en"] = [
 	'back' => 'Back',
 	'close' => 'Close',
 	'message' => 'Message',
+	'notification' => 'Notification',
+	'help' => 'Help',
+	'next' => 'Next',
+	'previous' => 'Previous',
+	'ok' => 'Ok',
+	'now' => 'Now',
+	
+	/* Time related */
+	'year' => 'Year',
+	'month' => 'Month',
+	'day' => 'Day',
+	'hour' => 'Hour',
+	'minute' => 'Minute',
+	'second' => 'Second',
 	
 	/* Page names */
 	'home' => 'Home',
