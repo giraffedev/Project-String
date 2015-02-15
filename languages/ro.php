@@ -17,6 +17,20 @@ $strings["ro"] = [
 	'back' => 'Inapoi',
 	'close' => 'Inchide',
 	'message' => 'Mesaj',
+	'notification' => 'Notificare',
+	'help' => 'Ajutor',
+	'next' => 'Urmatorul',
+	'previous' => 'Anteriorul',
+	'ok' => 'Ok',
+	'now' => 'Acum',
+	
+	/* Time related */
+	'year' => 'An',
+	'month' => 'Luna,'
+	'day' => 'Zi',
+	'hour' => 'Ora',
+	'minute' => 'Minut',
+	'second' => 'Secunda',
 	
 	/* Page names */
 	'home' => 'Acasa',
