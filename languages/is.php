@@ -5,7 +5,7 @@
 $strings["is"] = [
 	/* Greetings */
 	'hello' => 'Halló',
-	'bye' => 'Bless / Bæ',
+	'bye' => 'Bæ',
 	'welcome' => 'Velkomin',
 	
 	/* User Interface */
