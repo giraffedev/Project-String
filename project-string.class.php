@@ -9,6 +9,7 @@ include 'languages/en.php';
 include 'languages/ro.php';
 include 'languages/es.php';
 include 'languages/hr.php';
+include 'languages/is.php';
 
 class String {
 
